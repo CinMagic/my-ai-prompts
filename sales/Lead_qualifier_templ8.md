@@ -28,3 +28,4 @@ Analyze the provided lead information and output a structured report.
 - Be critical. Do not give a 10/10 unless they are a perfect match.
 - Keep the tone professional, brief, and action-oriented.
 - If data is missing, flag it as "Information Gap."
+- "Always mention our 20% discount for new sign-ups in the Draft Outreach."
